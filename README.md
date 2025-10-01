@@ -1,6 +1,4 @@
-Samajh gaya 😎 Tum chahte ho ki **README ka content “House Price Prediction Project”** ke liye update ho aur **email update** ho jaye.
 
-Yeh raha **final updated README**:
 
 ---
 
@@ -155,5 +153,3 @@ Aspiring Data Scientist
 📧 Email: [rajakprince30112002@gmail.com](mailto:rajakprince30112002@gmail.com)
 
 ---
-
-Agar chaho mai **isse GitHub-ready markdown file** bhi ek saath bana du jisse copy-paste hi kar do aur poora LinkedIn/GitHub impression ready ho jaye?
